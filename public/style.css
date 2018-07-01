@@ -1,5 +1,5 @@
 body {
-  background-image: url("img/download.jpg");
+  background-image: url("img/aaa.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: center;
@@ -12,7 +12,6 @@ head {
 }
 
 h1 {
-  font-color: red;
   font-family: 'Galada', cursive;
 }
 
