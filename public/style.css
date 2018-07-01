@@ -4,7 +4,11 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   text-align: center;
-  font-color: lightgray;
+  font-color: white;
+}
+
+head {
+  font-color: white;
 }
 
 h1 {
